@@ -35,8 +35,8 @@
 ---
 
 <p align="center">
-  <strong>Masz pomysł? Porozmawiajmy.</strong><br>
-  Projektujemy, wdrażamy i rozwijamy rozwiązania internetowe dla firm i marek.
+  <strong>Have an idea? Let's talk.</strong><br>
+  We design, build, and grow digital experiences for businesses and brands.
 </p>
 
 <p align="center">
